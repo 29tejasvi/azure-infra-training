@@ -9,7 +9,7 @@ variable "Environment" {
 variable "Owner" {
     type = string
     description = "This is containing Owner tag"
-    default = "Tejasvi"
+    default = "TejasviK"
 }
 variable "costcentre" {
     type = string
